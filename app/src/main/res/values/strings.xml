@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Controle de Seleccion</string>
+    <string name="catologo">La primera película se estrenó en 2001, dando comienzo a la tetralogía original de películas centradas en las carreras callejeras ilegales, que culminó con la película Fast  Furious (2009). </string>
+    <string name="dos">Cuando el ex policía, Brian Conner, es capturado en Miami por su antiguo socio, Bilkins, lo reclutan para acabar con un narcotraficante llamado Carter Verone. Connor acepta ayudarlos en los términos de crear su propio equipo. Decide formar equipo con su amigo de la infancia, Roman Pearce.</string>
+    <string name="tres">Cuando llega a Tokio tras participar en carreras callejeras, un joven estadounidense intenta perfeccionar un nuevo y atrevido estilo de manejo para desafiar a un rival peligroso.</string>
+    <string name="cuatro">Un asesinato obliga a Don Toretto, un ex convicto huido, y al agente Brian O Conner a volver a Los Ángeles. donde su pelea se reaviva. Pero al tener que enfrentarse a un enemigo común, se ven obligados a formar una alianza incierta si quieren conseguir desbaratar sus planes.</string>
+    <string name="cinco">Fast Five sigue a Dominic Toretto (Vin Diesel), Brian O Conner Paul Walker) y Mia Toretto (Jordana Brewster) planean un atraco para robar $100 millones del corrupto empresario Hernan Reyes (Joaquim de Almeida) mientras son perseguidos para arrestarlos por el agente del Servicio de Seguridad Diplomática de los Estados ...</string>
+    <string name="purga">Benditos sean los nuevos Padres de la patria y nuestro país, una nación renacida. Que Dios los proteja. Benditos sean los nuevos padres de la patria y Norteamerica, una nación que renace. Que Dios los ampare a todos.</string>
+
+    <string-array name="Frutas">
+        <item>Seleciono la fruta</item>
+        <item>Banano</item>
+        <item>Pera</item>
+        <item>Mango</item>
+        <item>Maracuya</item>
+        <item>Guanabana</item>
+
+    </string-array>
+    <string-array name="Peliculas">
+        <item>Selecciono la Pelicula</item>
+        <item>Rapidos y furiosos</item>
+        <item>need for speed</item>
+        <item>gran turismo</item>
+        <item>masacre en texas</item>
+        <item>viernes 13</item>
+    </string-array>
+    <string-array name="saga">
+        <item>Rapidos y furiosos 1</item>
+        <item>Rapidos y furiosos 2</item>
+        <item>Rapidos y furiosos 3</item>
+        <item>Rapidos y furiosos 4</item>
+        <item>purga</item>
+    </string-array>
+    <string name="mil">100000.0</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <!-- cONTROLES DE SELECCION-->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="controles de Seleccion"
+        android:textSize="40sp"/>
+    <!-- SE DESPLEGA LAS OPCIONES //UNICAS-->
+    <Spinner
+        android:id="@+id/spFrutas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:entries="@array/Frutas"/>
+    <!-- lISTA DONDE PUEDE TENER MUCHOS DATOS-->
+    <ListView
+        android:id="@+id/listPeliculas"
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:layout_marginTop="40dp"
+        android:entries="@array/Peliculas"/>
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="catalogo"/>
+
+
+</LinearLayout>
