@@ -37,6 +37,8 @@ public class Ejercicio2 extends AppCompatActivity {
         btnCalculate = findViewById(R.id.btnCalculate);
         tvResult = findViewById(R.id.tvResult);
 
+        etPrice.setText("100000");
+
         cbDiscount.setOnCheckedChangeListener((buttonView, isChecked) -> {
             etDiscount.setEnabled(isChecked);
             if (isChecked) {
